@@ -83,7 +83,7 @@ main {
     height: 600px;
     padding-top: 150px;
     padding-left: 150px;
-    background-image: url(../image/anhnen9.png);
+    background-image: url(./anhnen9.png);
     background-repeat: no-repeat;
     background-position: right center;
     background-size: 300px auto;
